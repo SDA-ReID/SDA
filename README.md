@@ -2,7 +2,7 @@
 ![PyTorch 1.1](https://img.shields.io/badge/PyTorch-1.1-blue.svg)
 # Structured Domain Adaptation (SDA)
 
-The code for the submission "Structured Domain Adaptation with Online Relation Regularization for Unsupervised Person Re-ID".
+The code for "Structured Domain Adaptation with Online Relation Regularization for Unsupervised Person Re-ID".
 
 **Please note that**
 + It serves as the *supplementary material* for the anonymous review process.
